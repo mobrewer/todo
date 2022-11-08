@@ -1,0 +1,28 @@
+.Todo {
+    border: 1px solid gray;
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 15px;
+}
+.Todo-List {
+    display: flex;
+    flex-direction: column;
+    
+}
+.Div-list {
+    display: flex;
+    flex-direction: row;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+}
+.List {
+    flex-direction: row;
+    font-weight: bold;
+}
+.List2{
+    flex-direction: row;
+    font-weight: bold;
+    text-align: right;
+}
